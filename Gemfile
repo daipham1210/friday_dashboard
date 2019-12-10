@@ -19,6 +19,7 @@ gem 'puma', ">= 4.3.1"
 # gem 'image_processing', '~> 1.2'
 
 gem 'figaro', '~> 1.1', '>= 1.1.1'
+gem 'pg', '~> 0.18.4'
 gem 'pry', '~> 0.12.2'
 gem 'rest-client', '~> 2.1'
 
