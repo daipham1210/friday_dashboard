@@ -10,3 +10,7 @@ development:
 staging:
   <<: *default
   database: friday_dashboard_stg
+
+production:
+  <<: *default
+  database: friday_dashboard_live
