@@ -10,6 +10,7 @@
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 
-weatherbit_key: b1876351938e45d890c6e31870ab83c5
-weatherbit_city_id: 1904560
-coinmarket_key: ae19f86c-0eac-409d-8a77-2e3ad2ae72a7
+weatherbit_key: 'b1876351938e45d890c6e31870ab83c5'
+weatherbit_city_id: '1904560'
+coinmarket_key: 'ae19f86c-0eac-409d-8a77-2e3ad2ae72a7'
+metails_api_key: 'auw7ap7x9x2zn2tm23wqwa11khe1vks3szu379fvlm8e497bmm92au7767f4x6rc'

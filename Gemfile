@@ -18,11 +18,11 @@ gem 'puma', ">= 4.3.1"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
+gem 'bundler', '~> 2.0', '>= 2.0.2'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'pg', '~> 0.18.4'
 gem 'pry', '~> 0.12.2'
 gem 'rest-client', '~> 2.1'
-
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
